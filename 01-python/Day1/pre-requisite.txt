@@ -1,0 +1,12 @@
+1. Install python
+2. Create a virtual environment
+3. Install packages
+    pip install pytest              (we need this because playwright runs on pytest framework)
+    pip install pytest-playwright   (on top of pytest we required to install playwright)
+    install playwright              (we also have to install browsers engine drivers to run our test cases on it so we need this to be installed too)
+                                    This is basically download all the browsers such as
+                                    -   chromium,
+                                    -   firefox,
+                                    -   webkit  it is also used to record videos
+                                    -   FFMPEG (it helps to record videos).
+

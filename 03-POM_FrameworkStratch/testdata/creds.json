@@ -1,0 +1,18 @@
+{
+    "user_details": [
+        {
+            "firstname": "demoqa_firstname",
+            "lastname": "demoqa_lastname",
+            "username": "dummyqademouser001",
+            "password": "Dummyqademopassword@001",
+            "email": "email.123@example.com",
+            "company": "SoftwareTestingBoard",
+            "streetAddress": "123 Main Street",
+            "city": "Anytown",
+            "state": "California",
+            "zipCode": "12345",
+            "phone": "123-456-7890",
+            "country": "Vatican City"
+        }
+    ]
+}
